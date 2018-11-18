@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Q# ハンズオン
 
-You can use the [editor on GitHub](https://github.com/tanaka-takayoshi/QSharp-Handson/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Q# ハンズオンの各回の資料を公開しています
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 作者について
 
-### Markdown
+[@tanaka_733](https://www.tanaka733.net/)。主に[Twitter](https://twitter.com/tanaka_733)にいます。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 理学博士。研究にて希釈冷凍機などを扱っていたことから、量子コンピューターに興味を持ちました。
+- Microsoft MVP for Azure。以前はMVP for C# でC#やAzureなどのMicrosoft技術に関心があります。
 
-```markdown
-Syntax highlighted code block
+### 各回の情報
 
-# Header 1
-## Header 2
-### Header 3
+#### 第1回
 
-- Bulleted
-- List
+[イベント概要](https://openql.connpass.com/event/106116/)
+[資料](http://www.tanaka733.net/QSharp-Handson/01)
 
-1. Numbered
-2. List
+#### 第1回 (再)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### このリポジトリについて
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tanaka-takayoshi/QSharp-Handson/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+各回の資料を公開しています。
+質問や誤りなどの指摘は[issue](https://github.com/tanaka-takayoshi/QSharp-Handson/issues)にあげてもらえるとベストエフォートにて対応します。
