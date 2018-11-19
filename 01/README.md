@@ -4,8 +4,8 @@
 
 問題0と問題1はどちらも量子テレポーテーションを扱った問題です。問題0はQuantum Development Kitにある手順そのままであり、問題1もMSDNブログに記載がある問題です。当日参加者の方に聞きながらどちらをやるか決めます。もしくは問題2をやらずに問題0と1をやるかもしれません。
 
-問題の解答はそれぞれ [Problem0](./Problem0) [Problem1](./Problem1) [Problem2](./Problem2) に置いてあります。
-フィードバックはGitHubのissueにお願いします。
+問題の解答はそれぞれ [Problem0](https://github.com/tanaka-takayoshi/QSharp-Handson/tree/master/01/Problem0) [Problem1](https://github.com/tanaka-takayoshi/QSharp-Handson/tree/master/01/Problem1) [Problem2](https://github.com/tanaka-takayoshi/QSharp-Handson/tree/master/01/Problem2) に置いてあります。
+フィードバックは[GitHubのissue](https://github.com/tanaka-takayoshi/QSharp-Handson/issues)にお願いします。
 
 ### 参考資料
 
@@ -98,7 +98,7 @@ Solveメソッドの実装はこのページの一番下にあります。自分
 
 ### Q# 全般のヒント (適宜追加予定)
 
-‐ usingで生成したQubitはusingを抜ける際に0にリセットしないといけません。
+- usingで生成したQubitはusingを抜ける際に0にリセットしないといけません。
 
 ### 発展(時間が余ったら)
 
