@@ -17,12 +17,12 @@ namespace Problem1
                 {
                     var sent = rand.Next(2) == 0;
                     var received = TeleportClassicalMessage.Run(sim, sent).GetAwaiter().GetResult();
-                    Console.WriteLine($"Round {i}:\tSent {sent},\tgot {received}.");
-                    Console.WriteLine(sent == received ? "Teleportation successful!!\n" : "\n");
+                    Console.WriteLine($"{i}回目: Sent {sent}, got {received}.");
+                    Console.WriteLine(sent == received ? "Teleportation 成功!!\n" : "\n");
                 }
             }
 
-            Console.WriteLine("\n\nPress Enter to continue...\n\n");
+            Console.WriteLine("キーを押したら終了します...");
             Console.ReadLine();
         }
     }
