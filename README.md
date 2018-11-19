@@ -1,10 +1,10 @@
 ## Q# ハンズオン
 
-Q# ハンズオンの各回の資料を公開しています
+Q# ハンズオンの各回の資料を公開しています。
 
 ### 作者について
 
-[@tanaka_733](https://www.tanaka733.net/)。主に[Twitter](https://twitter.com/tanaka_733)にいます。
+[@tanaka_733](https://www.tanaka733.net/)。主に[Twitter](https://twitter.com/tanaka_733)にいます。Q#関連の情報はハッシュタグ ``#qsharpjp`` をつけて発信しています。
 
 - 理学博士。研究にて希釈冷凍機などを扱っていたことから、量子コンピューターに興味を持ちました。
 - Microsoft MVP for Azure。以前はMVP for C# でC#やAzureなどのMicrosoft技術に関心があります。

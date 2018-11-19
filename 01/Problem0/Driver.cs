@@ -16,12 +16,11 @@ namespace Problem0
                 {
                     var res = BellTest.Run(qsim, 1000, initial).GetAwaiter().GetResult();
                     var (numZeros, numOnes, agree) = res;
-                    System.Console.WriteLine(
-                        $"初期状態:{initial,-4} |0>={numZeros,-4} |1>={numOnes,-4} 同一={agree,-4}");
+                    Console.WriteLine($"初期状態:{initial,-4} |0>={numZeros,-4} |1>={numOnes,-4} 同一={agree,-4}");
                 }
             }
 
-            System.Console.WriteLine("キーを押したら終了します...");
+            Console.WriteLine("キーを押したら終了します...");
             Console.ReadKey();
         }
     }
