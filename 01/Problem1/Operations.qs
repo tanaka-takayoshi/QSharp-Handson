@@ -4,7 +4,7 @@
     open Microsoft.Quantum.Primitive;
 
     operation Teleport(msg : Qubit, there : Qubit) : Unit 
-     {
+    {
         borrowing  (here = Qubit()) 
         {        
             // Create some entanglement that we can use to send our message.

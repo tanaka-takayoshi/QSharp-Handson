@@ -14,7 +14,7 @@ namespace Problem0
                 var initials = new [] { Result.Zero, Result.One };
                 foreach (Result initial in initials)
                 {
-                    var res = BellTest.Run(qsim, 1000, initial).GetAwaiter().GetResult();
+                    var res = BellTest.Run(qsim, 1000, initial).Result;
                     var (numZeros, numOnes, agree) = res;
                     Console.WriteLine($"初期状態:{initial,-4} |0>={numZeros,-4} |1>={numOnes,-4} 同一={agree,-4}");
                 }

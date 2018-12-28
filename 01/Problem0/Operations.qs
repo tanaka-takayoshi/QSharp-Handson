@@ -11,7 +11,7 @@
             X(q1);
         }
     }
-
+    
     operation BellTest (count : Int, initial: Result) : (Int, Int, Int)
     {
         mutable numOnes = 0;
@@ -38,7 +38,7 @@
                     set numOnes = numOnes + 1;
                 }
             }
-
+            
             Set(Zero, qubits[0]);
             Set(Zero, qubits[1]);
         }
