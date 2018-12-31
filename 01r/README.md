@@ -9,8 +9,8 @@
 
 ### 参考資料
 
-[本家ドキュメント](https://docs.microsoft.com/en-us/quantum/techniques/?view=qsharp-preview)
-[日本語でまとめた資料 - Q#基礎 ver1.1](https://www.slideshare.net/tanakata/q-ver11)
+- [本家ドキュメント](https://docs.microsoft.com/en-us/quantum/techniques/?view=qsharp-preview)
+- [日本語でまとめた資料 - Q#基礎 ver1.1](https://www.slideshare.net/tanakata/q-ver11)
 
 ### 問題0 Bell state
 
@@ -36,7 +36,7 @@
 
 #### 解き方
 
-解き方がわからない人向けに以下の手順で前で説明していきます。この説明を聞きながら手順をすすめて行きましょう。
+解き方がわからない人向けに以下の手順で前で説明していきます。この説明を聞きながら手順をすすめて行きましょう。また、この問題は参照リンク先の``Quickstart - your first quantum program``で作成しているプロジェクトと同じです。
 
 - Q#プロジェクトの作成と実行
 - Q#のコードに、C#から呼び出す空のoperationを追加
