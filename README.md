@@ -13,11 +13,13 @@ Q# ハンズオンの各回の資料を公開しています。
 
 #### 第1回
 
-[イベント概要](https://openql.connpass.com/event/106116/)
-[資料](http://www.tanaka733.net/QSharp-Handson/01)
+- [イベント概要](https://openql.connpass.com/event/106116/)
+- [資料](http://www.tanaka733.net/QSharp-Handson/01)
 
 #### 第1回 (再)
 
+- [イベント概要](https://openql.connpass.com/event/109709)
+- [資料](http://www.tanaka733.net/QSharp-Handson/01r)
 
 ### このリポジトリについて
 
