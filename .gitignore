@@ -63,7 +63,7 @@ build_log.txt
 .pdf
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
-*.bbl
+*.bblSelection_714
 *.bcf
 *.blg
 *-blx.aux
@@ -279,3 +279,6 @@ TSWLatexianTemp*
 
 # standalone packages
 *.sta
+
+# temporal directory
+.work/

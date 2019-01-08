@@ -43,6 +43,10 @@
 - C#のDriverクラスの編集
 - Q#のコードの実装
 
+また、実装するべき量子回路は次のような回路になります。最初のXゲートは、必要な場合のみ適用します。
+
+![](./diag1.png)
+
 ### 問題1 量子テレポーテーション
 
 [Microsoftのブログ](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/27/quantum-teleportation-in-q)を参考に量子テレポーテーションをQ#プロジェクトとして実装してください。
