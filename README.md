@@ -21,6 +21,12 @@ Q# ハンズオンの各回の資料を公開しています。
 - [イベント概要](https://openql.connpass.com/event/109709)
 - [資料](http://www.tanaka733.net/QSharp-Handson/01r)
 
+#### 第2回
+
+- [イベント概要](https://openql.connpass.com/event/118035/)
+- [資料](https://github.com/tanaka-takayoshi/GroverPractice)
+- ![アンケート](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__bNiCGBURUZLR085WUtJOTQ3M0pNNVkwQ1lHRVhXQi4u)
+
 ### このリポジトリについて
 
 各回の資料を公開しています。
