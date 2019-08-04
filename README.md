@@ -27,6 +27,12 @@ Q# ハンズオンの各回の資料を公開しています。
 - [資料](https://github.com/tanaka-takayoshi/GroverPractice)
 - ![アンケート](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__bNiCGBURUZLR085WUtJOTQ3M0pNNVkwQ1lHRVhXQi4u)
 
+#### 第３回
+
+- [イベント概要](https://openql.connpass.com/event/135665/)
+- [資料]()
+- ![アンケート]()
+
 ### このリポジトリについて
 
 各回の資料を公開しています。
