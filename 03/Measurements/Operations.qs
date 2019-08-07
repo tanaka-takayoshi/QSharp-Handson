@@ -14,7 +14,7 @@
         // ABMeasurements();
         // BasicTwoQubitsStateMeasurements();
         // TwoQubitSStateMeasurements();
-        ParityMeasurements();
+        // ParityMeasurements();
         // GHZorWStateMeasurements();
     }
 

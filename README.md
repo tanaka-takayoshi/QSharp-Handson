@@ -25,13 +25,14 @@ Q# ハンズオンの各回の資料を公開しています。
 
 - [イベント概要](https://openql.connpass.com/event/118035/)
 - [資料](https://github.com/tanaka-takayoshi/GroverPractice)
-- ![アンケート](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__bNiCGBURUZLR085WUtJOTQ3M0pNNVkwQ1lHRVhXQi4u)
 
 #### 第３回
 
 - [イベント概要](https://openql.connpass.com/event/135665/)
-- [資料]()
-- ![アンケート]()
+- [課題(このリポジトリのフォルダ)](https://github.com/tanaka-takayoshi/QSharp-Handson/tree/master/03/Measurements)
+- [課題(zip、同じファイルの圧縮)](https://github.com/tanaka-takayoshi/QSharp-Handson/releases/download/v3.0/Measurements.zip)
+- [説明資料](https://www.slideshare.net/tanakata/20190806-q-measurements)
+
 
 ### このリポジトリについて
 
