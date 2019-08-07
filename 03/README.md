@@ -1,10 +1,13 @@
 ## Q# ハンズオン 第3回
 
+### [イベント概要](https://openql.connpass.com/event/135665/)
+
 ### 課題
 
-[./Measurements]以下がQ# プロジェクトになっているので、Visual StudioやVisual Studio Codeなどで開き、実行できることを確認してください。
+[Measurements](https://github.com/tanaka-takayoshi/QSharp-Handson/tree/master/03/Measurements)フォルダ以下がQ# プロジェクトになっているので、Visual StudioやVisual Studio Codeなどで開き、実行できることを確認してください。
+フォルダは[ZIPファイル](https://github.com/tanaka-takayoshi/QSharp-Handson/releases/download/v3.0/Measurements.zip)としてもダウンロードできます。
 
-[./Measurements/Operations.qs]に課題があります。最初の`AllProblems`ですべての問題をまとめて実行できますが、一度に実行すると標準出力に大量に出力されるので、適宜コメントアウトしてください。
+[Operations.qs](https://github.com/tanaka-takayoshi/QSharp-Handson/blob/v3.0/03/Measurements/Operations.qs)に課題があります。最初の`AllProblems`ですべての問題をまとめて実行できますが、一度に実行すると標準出力に大量に出力されるので、適宜コメントアウトしてください。
 
 ```
     operation AllProblems () : Unit {
