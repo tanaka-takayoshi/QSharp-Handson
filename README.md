@@ -29,9 +29,7 @@ Q# ハンズオンの各回の資料を公開しています。
 #### 第３回
 
 - [イベント概要](https://openql.connpass.com/event/135665/)
-- [課題(このリポジトリのフォルダ)](https://github.com/tanaka-takayoshi/QSharp-Handson/tree/master/03/Measurements)
-- [課題(zip、同じファイルの圧縮)](https://github.com/tanaka-takayoshi/QSharp-Handson/releases/download/v3.0/Measurements.zip)
-- [説明資料](https://www.slideshare.net/tanakata/20190806-q-measurements)
+- [資料](./03)
 
 
 ### このリポジトリについて
